@@ -1,4 +1,3 @@
-public:: true
 type:: [[datasett]]
 server:: [[ub-media01]]
 

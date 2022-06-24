@@ -1,4 +1,3 @@
-public:: true
 type:: [[prosjekt]]
 status:: [[Behov for videre drift må avklares]]
 tech:: php, laravel

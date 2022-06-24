@@ -1,4 +1,3 @@
-public:: true
 query-table:: true
 query-properties:: [:page]
 #+BEGIN_QUERY

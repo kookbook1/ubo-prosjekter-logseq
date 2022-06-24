@@ -1,4 +1,3 @@
-public:: true
 type:: [[prosjekt]] 
 status:: [[Planlegger utfasing]] 
 tech:: php,laravel

@@ -1,4 +1,3 @@
-public:: true
 type:: [[prosjekt]]
 server:: [[ub-www01]]
 status:: [[Behov for videre drift må avklares]]

@@ -1,4 +1,3 @@
-public:: true
 type:: [[prosjekt]]
 status:: [[Driftes videre]]
 server:: [[ubprod01-uxl]]

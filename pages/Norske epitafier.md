@@ -1,4 +1,3 @@
-public:: true
 type:: [[prosjekt]]
 server:: [[ub-media01]] 
 tech:: javascript,php

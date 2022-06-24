@@ -1,4 +1,3 @@
-public:: true
 type:: [[prosjekt]]
 tech:: java
 server:: ingen

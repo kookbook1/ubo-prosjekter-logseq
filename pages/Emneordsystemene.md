@@ -1,4 +1,3 @@
-public:: true
 
 - Script
 	- [[almar]] for å gjøre gjennomgående endringer i poster

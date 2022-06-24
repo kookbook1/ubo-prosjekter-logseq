@@ -1,4 +1,3 @@
-public:: true
 type:: [[prosjekt]]
 server:: ingen 
 tech:: python
