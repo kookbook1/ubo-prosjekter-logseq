@@ -29,6 +29,5 @@ query-properties:: [:page]
   ]}
   #+END_QUERY
 -
-- [[Skrivesenteret]]
 - Generelle oppgaver:
 	- TODO Spørre USIT om å få lagt inn noen docker images på Harbor, PHP, tilgang til Jenkins for å bygge bilder?

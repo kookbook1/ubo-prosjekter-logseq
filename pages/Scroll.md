@@ -1,3 +1,4 @@
+public:: true
 type:: [[prosjekt]]
 tech:: php,laravel
 server:: [[ub-www01]]

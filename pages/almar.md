@@ -1,3 +1,4 @@
+public:: true
 is:: [[prosjekt]]
 server:: ingen
 del-av:: [[Emneordsystemene]]

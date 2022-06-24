@@ -1,3 +1,4 @@
+public:: true
 type:: [[prosjekt]]
 tech:: docker
 server:: [[ubprod01-uxl]] 

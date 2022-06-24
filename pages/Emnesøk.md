@@ -1,3 +1,4 @@
+public:: true
 type:: [[prosjekt]]
 tech:: angularjs
 server:: [[app-evs]]
