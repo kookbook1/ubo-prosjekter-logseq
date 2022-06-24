@@ -1,32 +1,15 @@
-query-table:: true
-query-properties:: [:page]
-#+BEGIN_QUERY
-	{:title "Etter status"
-     :query [:find (pull ?p [*])
-	 :where
-         [?p :block/name _]
-         (page-property ?p :type "status")
-]}
-#+END_QUERY
-
-- query-sort-by:: tech
+- Etter status:
+  query-properties:: [:page]
+	- {{query (page-property type [[status]])}}
+- Prosjekter:
+  query-table:: true
+  query-properties:: [:page]
+	- {{query (page-property type [[prosjekt]])}}
+	  query-properties:: [:page :type :status :server :del-av :brukes-av :tech]
+- Datasett:
+  query-sort-by:: tech
   query-sort-desc:: true
-  #+BEGIN_QUERY
-  	{:title "Prosjekter"
-       :query [:find (pull ?p [*])
-  	:where
-           [?p :block/name _]
-           (page-property ?p :type "prosjekt")
-  ]}
-  #+END_QUERY
-- #+BEGIN_QUERY
-  	{:title "Datasett"
-       :query [:find (pull ?p [*])
-  	 :where
-           [?p :block/name _]
-           (page-property ?p :type "datasett")
-  ]}
-  #+END_QUERY
--
+	- {{query (page-property type [[datasett]] )}}
+	  query-properties:: [:page :type :server]
 - Generelle oppgaver:
 	- TODO Spørre USIT om å få lagt inn noen docker images på Harbor, PHP, tilgang til Jenkins for å bygge bilder?
