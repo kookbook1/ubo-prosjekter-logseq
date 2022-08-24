@@ -1,5 +1,5 @@
-type:: [[prosjekt]]
-status:: [[Behov for videre drift må avklares]]
+type:: [[system]]
+status:: [[Må avklares]]
 tech:: php, laravel
 server:: [[ub-baser01]]
 

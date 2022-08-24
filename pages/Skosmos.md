@@ -1,4 +1,4 @@
-type:: [[prosjekt]]
+type:: [[system]]
 tech:: docker
 server:: [[ubprod01-uxl]] 
 brukes-av:: eksterne, [[Emnesøk]] 

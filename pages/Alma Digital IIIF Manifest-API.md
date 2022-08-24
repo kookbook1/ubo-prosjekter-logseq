@@ -1,0 +1,2 @@
+- API for å hente data om digitale objekter i Alma Digital
+- Dokumentasjon: https://developers.exlibrisgroup.com/alma/integrations/digital/almadigital/access/

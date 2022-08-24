@@ -1,30 +1,39 @@
 [{:block/name "a",
   :block/created-at 1655231651118,
   :block/updated-at 1655231651118}
+ {:block/name "alma digital iiif manifest-api",
+  :block/created-at 1660890836825,
+  :block/updated-at 1660890853798}
  {:block/name "alma-letters-ubo",
   :block/created-at 1656071370545,
-  :block/updated-at 1656074590437}
+  :block/updated-at 1656091561194}
  {:block/name "almar",
   :block/created-at 1655276448867,
   :block/updated-at 1656070769327}
+ {:block/name "anbefaling",
+  :block/created-at 1656091097263,
+  :block/updated-at 1656091097263}
  {:block/name "app-evs",
   :block/created-at 1656069508054,
   :block/updated-at 1656069508054}
  {:block/name "b",
   :block/created-at 1655231651118,
   :block/updated-at 1655231651118}
- {:block/name "behov for videre drift må avklares",
-  :block/created-at 1655232159184,
-  :block/updated-at 1656071538796}
  {:block/name "bibrex",
   :block/created-at 1656070064211,
-  :block/updated-at 1656070153694}
+  :block/updated-at 1656090674146}
  {:block/name "blekkio",
   :block/created-at 1656070165612,
-  :block/updated-at 1656071030861}
+  :block/updated-at 1656089985339}
  {:block/name "c",
   :block/created-at 1655231651118,
   :block/updated-at 1655231651118}
+ {:block/name "canceled",
+  :block/created-at 1660892089753,
+  :block/updated-at 1660892089753}
+ {:block/name "cancelled",
+  :block/created-at 1660892089753,
+  :block/updated-at 1660892089753}
  {:block/name "card",
   :block/created-at 1655231651118,
   :block/updated-at 1655231651118}
@@ -33,7 +42,7 @@
   :block/updated-at 1655277832248}
  {:block/name "colligator",
   :block/created-at 1656071094207,
-  :block/updated-at 1656071236635}
+  :block/updated-at 1656090693106}
  {:block/name "contents",
   :block/created-at 1655231651118,
   :block/updated-at 1655231651118}
@@ -54,10 +63,16 @@
   :block/updated-at 1655231651118}
  {:block/name "driftes videre",
   :block/created-at 1655232206734,
-  :block/updated-at 1656071546617}
+  :block/updated-at 1656089770147}
+ {:block/name "drogesamlingene ved universitetet i oslo",
+  :block/created-at 1656094500690,
+  :block/updated-at 1656094636622}
+ {:block/name "dsc.ub.uio.no",
+  :block/created-at 1656089333792,
+  :block/updated-at 1656089333792}
  {:block/name "duckboard",
   :block/created-at 1656071038664,
-  :block/updated-at 1656071080900}
+  :block/updated-at 1656089797225}
  {:block/name "eksterne",
   :block/created-at 1656069854400,
   :block/updated-at 1656069854400}
@@ -69,16 +84,25 @@
   :block/updated-at 1656073553558}
  {:block/name "emnesøk",
   :block/created-at 1655231773044,
-  :block/updated-at 1656073351113}
+  :block/updated-at 1656091403771}
  {:block/name "favorites",
   :block/created-at 1655231651118,
   :block/updated-at 1655231651118}
+ {:block/name "github pages",
+  :block/created-at 1656094585312,
+  :block/updated-at 1656094585312}
  {:block/name "humord",
   :block/created-at 1655277909845,
-  :block/updated-at 1656070607083}
- {:block/name "hva må på plass for at tjenesten skal kunne fases ut?",
+  :block/updated-at 1656090554986}
+ {:block/name "hva må til for at systemet evt. skal kunne fases ut?",
   :block/created-at 1656068721582,
   :block/updated-at 1656068721582}
+ {:block/name "hva må til for å drifte systemet videre?",
+  :block/created-at 1656088742139,
+  :block/updated-at 1656088742139}
+ {:block/name "hvor bor det?",
+  :block/created-at 1656091844775,
+  :block/updated-at 1656091844775}
  {:block/name "ikke i drift",
   :block/created-at 1656071507327,
   :block/updated-at 1656071512228}
@@ -87,13 +111,22 @@
   :block/updated-at 1655231651118}
  {:block/name "indeks",
   :block/created-at 1655231602716,
-  :block/updated-at 1656075062691}
+  :block/updated-at 1656091696018}
+ {:block/name "integrasjoner",
+  :block/created-at 1660890893954,
+  :block/updated-at 1660890893954}
  {:block/name "javascript",
   :block/created-at 1656071061666,
   :block/updated-at 1656071061666}
+ {:block/name "kildekode",
+  :block/created-at 1656089487023,
+  :block/updated-at 1656089487023}
+ {:block/name "kommende disputaser",
+  :block/created-at 1656092962034,
+  :block/updated-at 1656094262472}
  {:block/name "konverteringsscript for emneord",
   :block/created-at 1655231795486,
-  :block/updated-at 1656070922089}
+  :block/updated-at 1656090387911}
  {:block/name "kyrre",
   :block/created-at 1656070687189,
   :block/updated-at 1656070687189}
@@ -105,19 +138,25 @@
   :block/updated-at 1655231651118}
  {:block/name "libyrint",
   :block/created-at 1656071447537,
-  :block/updated-at 1656071507328}
+  :block/updated-at 1656090779008}
  {:block/name "lsm",
   :block/created-at 1655231848767,
-  :block/updated-at 1656074918059}
+  :block/updated-at 1656092510599}
  {:block/name "matthew",
   :block/created-at 1656070690508,
   :block/updated-at 1656070690508}
+ {:block/name "metsam",
+  :block/created-at 1656090482256,
+  :block/updated-at 1656090482256}
+ {:block/name "må avklares",
+  :block/created-at 1656090499431,
+  :block/updated-at 1656090499431}
  {:block/name "nginx",
   :block/created-at 1656068227227,
   :block/updated-at 1656068227227}
  {:block/name "norske epitafier",
   :block/created-at 1656071259127,
-  :block/updated-at 1656074953820}
+  :block/updated-at 1660890952557}
  {:block/name "now",
   :block/created-at 1655231651118,
   :block/updated-at 1655231651118}
@@ -130,33 +169,48 @@
  {:block/name "php",
   :block/created-at 1656068227228,
   :block/updated-at 1656068227228}
- {:block/name "planlegger utfasing",
+ {:block/name "planlegger utfasing (kortsiktig)",
   :block/created-at 1655231946376,
-  :block/updated-at 1656069672261}
- {:block/name "prosjekt",
-  :block/created-at 1655235301545,
-  :block/updated-at 1655235301545}
+  :block/updated-at 1656089684407}
+ {:block/name "planlegger utfasing (langsiktig)",
+  :block/created-at 1656089551804,
+  :block/updated-at 1656089716663}
  {:block/name "realfagsbibliotekets arrangementsarkiv",
   :block/created-at 1655280104666,
-  :block/updated-at 1656071345751}
+  :block/updated-at 1656089833005}
  {:block/name "realfagstermer",
   :block/created-at 1655276777222,
-  :block/updated-at 1656012199990}
+  :block/updated-at 1656090611630}
  {:block/name "roald + sonja",
   :block/created-at 1656068644800,
   :block/updated-at 1656073159523}
+ {:block/name "rt-bot",
+  :block/created-at 1656091696018,
+  :block/updated-at 1656092088790}
+ {:block/name "sammendrag",
+  :block/created-at 1656090210457,
+  :block/updated-at 1656090210457}
  {:block/name "scroll",
   :block/created-at 1656070162402,
-  :block/updated-at 1656070326989}
+  :block/updated-at 1656092275123}
+ {:block/name "server",
+  :block/created-at 1656091459927,
+  :block/updated-at 1656091459927}
  {:block/name "skosmos",
   :block/created-at 1655231797515,
-  :block/updated-at 1656070745802}
+  :block/updated-at 1656090646672}
  {:block/name "skrivesenteret",
   :block/created-at 1656072358727,
   :block/updated-at 1656072564900}
  {:block/name "status",
-  :block/created-at 1655232244034,
-  :block/updated-at 1655232244034}
+  :block/created-at 1656090343700,
+  :block/updated-at 1656090343700}
+ {:block/name "system",
+  :block/created-at 1656089056896,
+  :block/updated-at 1656089056896}
+ {:block/name "systembruker",
+  :block/created-at 1656091970994,
+  :block/updated-at 1656091970994}
  {:block/name "todo",
   :block/created-at 1655231651118,
   :block/updated-at 1655231651118}
@@ -165,22 +219,25 @@
   :block/updated-at 1656068377145}
  {:block/name "ub-baser01",
   :block/created-at 1656068377141,
-  :block/updated-at 1656068377141}
+  :block/updated-at 1656091543657}
  {:block/name "ub-media01",
   :block/created-at 1656071330396,
-  :block/updated-at 1656071330396}
+  :block/updated-at 1656091459928}
  {:block/name "ub-tilvekst",
   :block/created-at 1656069756388,
-  :block/updated-at 1656074749369}
+  :block/updated-at 1656092208515}
  {:block/name "ub-www01",
   :block/created-at 1656068145166,
-  :block/updated-at 1656068145166}
+  :block/updated-at 1656091470887}
+ {:block/name "ubos emneregister til dewey",
+  :block/created-at 1656092748370,
+  :block/updated-at 1656092844853}
  {:block/name "ubprod01-uxl",
   :block/created-at 1656069275411,
   :block/updated-at 1656069275411}
- {:block/name "undersøker mulighet for utfasing",
-  :block/created-at 1656074924073,
-  :block/updated-at 1656074924073}
+ {:block/name "url",
+  :block/created-at 1656089489051,
+  :block/updated-at 1656089489051}
  {:block/name "utfasing under arbeid",
   :block/created-at 1655232177791,
   :block/updated-at 1656071557629}

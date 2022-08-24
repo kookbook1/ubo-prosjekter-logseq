@@ -1,6 +1,6 @@
-type:: [[prosjekt]]
+type:: [[system]]
 server:: [[ub-www01]]
-status:: [[Behov for videre drift må avklares]]
+status:: [[Må avklares]]
 
 - URL: https://ub-www01.uio.no/prosjekter/
 - Status:

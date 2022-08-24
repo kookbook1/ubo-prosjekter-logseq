@@ -1,7 +1,7 @@
-type:: [[prosjekt]]
+type:: [[system]]
 server:: [[ub-www01]] 
 tech:: javascript
-status:: [[Ikke i drift]]
+status:: [[Planlegger utfasing (kortsiktig)]]
 
 - Kartløsning under utvikling: http://libyrint.uio.no/editor/#/maps/5c7b279c-9759-4cb0-95c1-bfdfaa0d5d09
 - Sorteringslogikkeditor: https://ub-www01.uio.no/realfagsbiblioteket-kart/test/sortgen/

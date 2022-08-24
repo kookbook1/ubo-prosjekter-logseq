@@ -1,4 +1,4 @@
-type:: [[prosjekt]]
+type:: [[system]]
 server:: [[ub-www01]] 
 tech:: python
 status:: [[Driftes videre]]

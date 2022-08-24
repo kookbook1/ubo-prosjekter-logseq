@@ -1,11 +1,14 @@
-type:: [[prosjekt]]
+type:: [[system]]
 server:: ingen 
 tech:: python
-status:: [[Behov for videre drift må avklares]]
+status:: [[Må avklares]]
 
 - Kjøres lokalt på egen maskin, ingen driftskomponent
 - Kildekode: https://github.com/uio-library/alma-letters-ubo
-- [[Hva må på plass for at tjenesten skal kunne fases ut?]]
-	- TODO Dan Michael sender epost til Magnus og Kjartan om det skal oppdateres og brukes videre
-	- TODO Markere github-repoet som arkivert
+- [[Hva må til for at systemet evt. skal kunne fases ut?]]
+	- DOING Dan Michael sender epost til Magnus og Kjartan om det skal oppdateres og brukes videre
+	  :LOGBOOK:
+	  CLOCK: [2022-06-24 Fri 19:25:58]
+	  :END:
+	- Markere github-repoet som arkivert
 -

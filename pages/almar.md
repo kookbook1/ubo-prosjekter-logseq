@@ -1,8 +1,8 @@
-is:: [[prosjekt]]
+is:: [[system]]
 server:: ingen
 del-av:: [[Emneordsystemene]]
 tech:: python
-status:: [[Behov for videre drift må avklares]]
+status:: [[Må avklares]]
 
 - Script for å gjøre batchendringer i katalogposter, kjøres vanligvis på [[data.ub.uio.no]], kan også kjøres på egen maskin, men krever litt mer av brukeren å sette opp
 - GitHub: https://github.com/scriptotek/almar
