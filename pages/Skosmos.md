@@ -11,3 +11,11 @@ del-av:: [[Emneordsystemene]]
 	- Skosmos er den offentlige inngangen til vokabulerene våre. Vi har ikke noe alternativ til Skosmos.
 - Oppgaver:
 	- DONE Legge til norsk fortekst for "Generelle se-henvisninger" (plusUseTerm) hvis det ikke allerede finnes
+	- DONE Fjerne vokabularene MSC, CCS, Menneskerettighetstermer, Bokbasen
+- Drift:
+	- Laste inn vokabularer på nytt fra scratch:
+		- ```
+		  sudo -u ubo-bot bash -l
+		  cd /data/vocabs
+		  ./load_everything.sh
+		  ```
