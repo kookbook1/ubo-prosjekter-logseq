@@ -198,7 +198,7 @@
   :block/updated-at 1656090611630}
  {:block/name "roald + sonja",
   :block/created-at 1656068644800,
-  :block/updated-at 1656073159523}
+  :block/updated-at 1663761450158}
  {:block/name "rt-bot",
   :block/created-at 1656091696018,
   :block/updated-at 1656092088790}
@@ -226,6 +226,9 @@
  {:block/name "systembruker",
   :block/created-at 1656091970994,
   :block/updated-at 1656091970994}
+ {:block/name "tatt ut av drift",
+  :block/created-at 1663761422562,
+  :block/updated-at 1663761422562}
  {:block/name "tech",
   :block/created-at 1662450849603,
   :block/updated-at 1662450849603}
