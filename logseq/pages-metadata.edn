@@ -93,10 +93,10 @@
   :block/updated-at 1656071201060}
  {:block/name "emneordsystemene",
   :block/created-at 1655276346934,
-  :block/updated-at 1656073553558}
+  :block/updated-at 1663877613839}
  {:block/name "emnesøk",
   :block/created-at 1655231773044,
-  :block/updated-at 1656091403771}
+  :block/updated-at 1663877476117}
  {:block/name "favorites",
   :block/created-at 1655231651118,
   :block/updated-at 1655231651118}
@@ -136,9 +136,9 @@
  {:block/name "kommende disputaser",
   :block/created-at 1656092962034,
   :block/updated-at 1656094262472}
- {:block/name "konverteringsscript for emneord",
+ {:block/name "konverteringsscript for emneord og webdewey",
   :block/created-at 1655231795486,
-  :block/updated-at 1656090387911}
+  :block/updated-at 1663877562848}
  {:block/name "kyrre",
   :block/created-at 1656070687189,
   :block/updated-at 1656070687189}
@@ -166,6 +166,9 @@
  {:block/name "nginx",
   :block/created-at 1656068227227,
   :block/updated-at 1656068227227}
+ {:block/name "norsk webdewey",
+  :block/created-at 1663877451219,
+  :block/updated-at 1663877451219}
  {:block/name "norske epitafier",
   :block/created-at 1656071259127,
   :block/updated-at 1660890952557}
@@ -232,6 +235,9 @@
  {:block/name "tech",
   :block/created-at 1662450849603,
   :block/updated-at 1662450849603}
+ {:block/name "tekord",
+  :block/created-at 1663877458147,
+  :block/updated-at 1663877458147}
  {:block/name "todo",
   :block/created-at 1655231651118,
   :block/updated-at 1655231651118}
@@ -256,6 +262,9 @@
  {:block/name "ubos emneregister til dewey",
   :block/created-at 1656092748370,
   :block/updated-at 1656092844853}
+ {:block/name "ubos emneregister til dewey (usvd)",
+  :block/created-at 1663877474276,
+  :block/updated-at 1663877596275}
  {:block/name "ubprod01-uxl",
   :block/created-at 1656069275411,
   :block/updated-at 1656069275411}
