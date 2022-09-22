@@ -1,11 +1,10 @@
-
-
 - Script
 	- [[almar]] for å gjøre gjennomgående endringer i poster
-	- [[Konverteringsscript for emneord]]
+	- [[Konverteringsscript for emneord og WebDewey]]
 - Vokabularer:
 	- [[Realfagstermer]]
 	- [[Humord]]
+	- [[UBOs emneregister til Dewey (USVD)]]
 - Frontend:
 	- [[Skosmos]]
 	- [[Emnesøk]]

@@ -4,6 +4,7 @@ server:: [[app-evs]]
 del-av:: [[Emneordsystemene]] 
 status:: [[Må avklares]]
 
+- App for søk i [[Realfagstermer]], [[Humord]], [[UBOs emneregister til Dewey (USVD)]], [[Tekord]] og [[Norsk WebDewey]]
 - [[URL]]: https://app.uio.no/ub/emnesok
 - [[Kildekode]]: https://github.com/scriptotek/emnesok
 - Noter om drift:
